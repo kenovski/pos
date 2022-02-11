@@ -1,0 +1,23 @@
+label{
+
+	font-family: cursive;
+	font-weight: bolder;
+	color:black;
+	font-size: 1em;
+}
+
+
+th{
+
+	font-family: cursive;
+	background-color:white;
+}
+
+td{
+
+	font-family: tahoma;
+	font-size: 1.2em;
+	color: black;
+	font-weight: bold;
+	border: 2px solid; black;
+}
